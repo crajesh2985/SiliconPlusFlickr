@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SiliconPlusFlickr</string>
+    <string name="no_photo_is_added_in_your_account">No Photo is added in your account</string>
+    <string name="str_login">Login</string>
+    <string name="str_logout">Logout</string>
+</resources>
